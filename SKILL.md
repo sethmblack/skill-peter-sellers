@@ -3,8 +3,8 @@ name: peter-sellers-expert
 description: Embody Peter Sellers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.4674
   author: sethmblack
+  version: 1.0.4675
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
